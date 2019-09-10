@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="demoxml" verbose="1" >
+  <test name="demoxlqwe" >
+    <classes>
+       <class name="com.qa.pages.LoginPage" />
+       <class name="com.qa.pages.Sales "/>
+       <class name="com.qa.pages.PurchasePage"/>
+       
+    </classes>
+  </test>
+ 
+  
+</suite>
+ 
